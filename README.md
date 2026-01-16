@@ -2,10 +2,7 @@
 **Topic:** Understanding Cyber Security Basics & Attack Surface
 
 ## Overview
-This repository contains my submission for Task 1 of the Cyber Security Internship. The task involved researching fundamental concepts including the CIA Triad, attacker types, and attack surfaces.
-
-## Deliverables
-* **Report:** [Task_1_Report.pdf](Task_1_Report.pdf)
+This repository contains my submission for Task 1 of the Cyber Security Internship. The task involved researching fundamental concepts including the CIA Triad, attacker types, and attack 
 
 ## Summary of Learning
 In this task, I explored:
